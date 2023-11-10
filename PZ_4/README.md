@@ -21,4 +21,15 @@
 ![image](https://github.com/madgentt/TOIB/assets/64005088/9ef01a49-28ac-406a-9be4-957ca0e7c427)
 ![image](https://github.com/madgentt/TOIB/assets/64005088/dcbadaff-e732-4e6d-9df4-94c5c79cbc69)
 
+# Установка promtail
+![image](https://github.com/madgentt/TOIB/assets/64005088/7c85b358-f555-45c9-a7b1-57129feae03a)
 
+## Файл конфигурации promtail
+![image](https://github.com/madgentt/TOIB/assets/64005088/773761b7-ae17-4a53-ba5c-416fbcf33b7f)
+
+## Создадим сервис для promtail 
+![image](https://github.com/madgentt/TOIB/assets/64005088/e8da8fb2-0b3f-4481-b4ae-828cfa59d6f1)
+![image](https://github.com/madgentt/TOIB/assets/64005088/e950511f-2ddf-4c0f-8656-5ea3c23e1a86)
+
+## Просмотр логов в Grafana
+![image](https://github.com/madgentt/TOIB/assets/64005088/0c60172f-2079-4269-9ad7-e97004cdccc0)
